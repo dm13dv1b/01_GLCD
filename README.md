@@ -2,3 +2,26 @@
 =======
 
 01_GLCD KS0108
+
+
+/* LCD Connection Descriptions */
+#define KS0108_RST_PIN	3
+#define KS0108_RST_PORT	GPIOA_BASE
+
+#define KS0108_RW_PIN	8
+#define KS0108_RW_PORT	GPIOA_BASE
+
+#define KS0108_DI_PIN	15
+#define KS0108_DI_PORT	GPIOA_BASE
+
+#define KS0108_EN_PIN	0
+#define KS0108_EN_PORT	GPIOB_BASE
+
+#define KS0108_CS1_PIN	4
+#define KS0108_CS1_PORT	GPIOB_BASE
+
+#define KS0108_CS2_PIN	5
+#define KS0108_CS2_PORT	GPIOB_BASE
+
+#define KS0108_DT_PIN	4
+#define KS0108_DT_PORT	GPIOE_BASE
