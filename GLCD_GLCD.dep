@@ -1,0 +1,38 @@
+Dependencies for Project 'GLCD', Target 'GLCD': (DO NOT MODIFY !)
+F (.\src\main.c)(0x538F06F8)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\src -I.\inc\Core-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (.\src\system_stm32f4xx.c)(0x532F4B12)
+I (.\inc\stm32f4xx.h)(0x531CBDA8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x529F2BA2)
+I (src\ks0108.c)(0x538EFBC6)
+I (.\inc\ks0108.h)(0x538F033C)
+I (.\inc\font.h)(0x538EF5E4)
+I (.\inc\delay.h)(0x538EF5DA)
+F (.\src\startup_stm32f4xx.s)(0x4EAA6856)(--cpu Cortex-M4.fp -g --apcs=interwork -I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include--list .\startup_stm32f4xx.lst --xref -o .\startup_stm32f4xx.o --depend .\startup_stm32f4xx.d)
+F (.\src\delay.c)(0x5386DE20)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\src -I.\inc\Core-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (.\inc\delay.h)(0x538EF5DA)
+I (.\inc\stm32f4xx.h)(0x531CBDA8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x529F2BA2)
+F (.\src\ks0108.c)(0x538EFBC6)(-c --cpu Cortex-M4.fp -g -O2 --apcs=interwork --split_sections -I.\inc -I.\src -I.\inc\Core-I d:\Keil_v5\ARM\RV31\INC-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.7\Device\Include-DSTM32F40_41xxx -o .\ks0108.o --omf_browse .\ks0108.crf --depend .\ks0108.d)
+I (.\inc\ks0108.h)(0x538F033C)
+I (.\inc\stm32f4xx.h)(0x531CBDA8)
+I (.\inc\Core\core_cm4.h)(0x512C8EE2)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (.\inc\Core\core_cmInstr.h)(0x51BAC5E4)
+I (.\inc\Core\core_cmFunc.h)(0x512C8EE2)
+I (.\inc\Core\core_cm4_simd.h)(0x522DAB68)
+I (.\inc\system_stm32f4xx.h)(0x529F2BA2)
+I (.\inc\font.h)(0x538EF5E4)
+I (.\inc\delay.h)(0x538EF5DA)
+F (.\inc\delay.h)(0x538EF5DA)()
+F (.\inc\font.h)(0x538EF5E4)()
+F (.\inc\ks0108.h)(0x538F033C)()

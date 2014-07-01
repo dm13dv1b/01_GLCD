@@ -1,0 +1,11 @@
+.\ks0108.o: src\ks0108.c
+.\ks0108.o: .\inc\ks0108.h
+.\ks0108.o: .\inc\stm32f4xx.h
+.\ks0108.o: .\inc\Core\core_cm4.h
+.\ks0108.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\ks0108.o: .\inc\Core\core_cmInstr.h
+.\ks0108.o: .\inc\Core\core_cmFunc.h
+.\ks0108.o: .\inc\Core\core_cm4_simd.h
+.\ks0108.o: .\inc\system_stm32f4xx.h
+.\ks0108.o: .\inc\font.h
+.\ks0108.o: .\inc\delay.h

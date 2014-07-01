@@ -1,0 +1,9 @@
+.\delay.o: src\delay.c
+.\delay.o: .\inc\delay.h
+.\delay.o: .\inc\stm32f4xx.h
+.\delay.o: .\inc\Core\core_cm4.h
+.\delay.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\delay.o: .\inc\Core\core_cmInstr.h
+.\delay.o: .\inc\Core\core_cmFunc.h
+.\delay.o: .\inc\Core\core_cm4_simd.h
+.\delay.o: .\inc\system_stm32f4xx.h
